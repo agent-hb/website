@@ -41,7 +41,7 @@ const Header: React.FC = () => {
         </nav>
         <a
           href="#contact"
-          className="flex items-center gap-2 rounded-lg bg-[#6E7DC8] px-5 py-2 text-[#262626] font-medium"
+          className="flex items-center gap-2 rounded-lg bg-[#6E7DC8] px-5 py-2 text-[#262626] font-medium hover:bg-[#5a6ba3] transition-colors"
         >
           Contact Us
         </a>

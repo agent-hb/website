@@ -23,7 +23,7 @@ const HeroSection = () => {
           >
             Github
           </Link>
-          <button className="flex items-center justify-center gap-[10px] rounded-[10px] font-medium text[#262626] bg-[#6E7DC8] px-[28px] py-[10px] cursor-pointer">
+          <button className="flex items-center justify-center gap-[10px] rounded-[10px] font-medium text[#262626] bg-[#6E7DC8] px-[28px] py-[10px] cursor-pointer hover:bg-[#5a6ba3] transition-colors">
             Discord
           </button>
         </div>
